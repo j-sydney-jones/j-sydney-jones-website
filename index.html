@@ -12,15 +12,16 @@
 <body>
     <!--header--> 
     
-    <span id="navigation" onload="replaceHeader();"></span>
+    <div id="navigation"></div>
+    <script src="jquery.js"></script>
     <script>
-        // $(function() {
-        //     
-        // });
+        $(function() {
+            $('#navigation').load("includes/navigation.html");
+        });
             
-        function replaceHeader() {
-            $("#navigation").load("includes/navigation.html");
-        }
+        // function replaceHeader() {
+        //     
+        // }
         
     </script>
     
