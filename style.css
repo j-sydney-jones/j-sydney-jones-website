@@ -158,3 +158,15 @@ body {
 #vienna-image {
   margin: 1rem;
 }
+
+.h-scroll {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+#book-display {
+  height: 225px;
+  min-width: 150px;
+  max-width: 80px;
+  margin: 1rem;
+}
