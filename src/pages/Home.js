@@ -18,7 +18,7 @@ export default class Home extends Component {
               <div className="card-body">
                 <div className="row">
                   <div className="col-sm-5">
-                    <img src={require("../assets/images/sydjones3.jpg")} style={{width: "100%", maxWidth: "256px", marginRight: "auto", marginLeft: "auto", display: "block"}}/>
+                    <img src={require("../assets/images/sydjones3.jpg")} alt="The author" style={{width: "100%", maxWidth: "256px", marginRight: "auto", marginLeft: "auto", display: "block"}}/>
                     <p className="p-sm" />
                   </div>
                   <div className="col-sm-7">
@@ -48,11 +48,11 @@ export default class Home extends Component {
             </div>
           </div>
           <div className="col-lg-5">
-            <div className="card shd-lg">
-
-            </div>
+            
           </div>
         </div>
+
+
       </div>
     );
   }
