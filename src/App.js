@@ -9,6 +9,7 @@ import Faq from "./pages/Faq";
 //components
 import Header from "./components/Header";
 import Nav from "./components/Nav";
+import Footer from './components/Footer';
 
 export default class App extends Component {
   render() {
@@ -25,6 +26,7 @@ export default class App extends Component {
             <Route path="/faq" component={Faq} />
           </Switch>
         </BrowserRouter>
+        <Footer />
       </div>
     );
   }

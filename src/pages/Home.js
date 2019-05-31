@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 
-
-import BookItem from '../components/BookItem';
-
+import BookItem from "../components/BookItem";
 
 export default class Home extends Component {
   render() {
@@ -22,7 +20,17 @@ export default class Home extends Component {
               <div className="card-body">
                 <div className="row">
                   <div className="col-sm-5">
-                    <img src={require("../assets/images/sydjones3.jpg")} alt="The author" style={{width: "100%", maxWidth: "256px", marginRight: "auto", marginLeft: "auto", display: "block"}}/>
+                    <img
+                      src={require("../assets/images/sydjones3.jpg")}
+                      alt="The author"
+                      style={{
+                        width: "100%",
+                        maxWidth: "256px",
+                        marginRight: "auto",
+                        marginLeft: "auto",
+                        display: "block"
+                      }}
+                    />
                     <p className="p-sm" />
                   </div>
                   <div className="col-sm-7">
@@ -50,25 +58,44 @@ export default class Home extends Component {
                 </div>
               </div>
             </div>
+            <p className="p-sm" />
           </div>
           <div className="col-lg-5">
-            
+            <div className="card shd-lg">
+              <div className="card-body">
+                <h2>Another element</h2>
+                <p>
+                  Similar to the "About the author" card, a preview to another
+                  page can go here.
+                </p>
+              </div>
+            </div>
           </div>
         </div>
         <p className="p-sm" />
-        <h2 className="center" style={{paddingBottom: "1rem"}}>Recent Publications</h2>
+        <h2 className="center" style={{ paddingBottom: "1rem" }}>
+          Recent Publications
+        </h2>
         <div className="flex-container">
-          <BookItem title={"The Edit"} img={"edit.jpg"} href={"/books/the-edit"}/>
-          <BookItem title={"Basic Law"} img={"basiclaw.jpg"} href={"/books/basic-law"}/>
-          <BookItem title={"The German Agent"} img={"agent.jpg"} href={"/the-german-agent"}/>
-
-
-
+          <BookItem
+            title={"The Edit"}
+            img={"edit.jpg"}
+            href={"/books/the-edit"}
+          />
+          <BookItem
+            title={"Basic Law"}
+            img={"basiclaw.jpg"}
+            href={"/books/basic-law"}
+          />
+          <BookItem
+            title={"The German Agent"}
+            img={"agent.jpg"}
+            href={"/the-german-agent"}
+          />
         </div>
-
+        <p className="p-sm" />
+        <a className="btn" href="/books">View all books &rarr;</a>
       </div>
     );
   }
 }
-
-
