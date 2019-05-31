@@ -16,6 +16,19 @@ h1, h2, h3, h4, h5 {font-family: "Noto Sans", "sans-serif"; font-weight: bold;}
 
 p, a {font-family: "Roboto", "sans-serif";}
 
+.center {text-align: center;}
+
+a{
+    color: #212529;
+    font-decoration: none;
+}
+
+a: hover{
+    color: #212529;
+    font-decoration: none;
+}
+
+
 /* !Spacing */
 .p-sm {padding-top: 1rem;}
 .p-md {padding-top: 2rem;}
@@ -23,6 +36,15 @@ p, a {font-family: "Roboto", "sans-serif";}
 .m-sm {margin-top: 1rem;}
 .m-md {margin-top: 2rem;}
 .m-lg {margin-top: 3rem;}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: space-around;
+    align-items: flex-start;
+}
 
 /* !Bootstrap overrides */
 .card {
@@ -46,3 +68,9 @@ p, a {font-family: "Roboto", "sans-serif";}
 .shd-sm {box-shadow: 0px 0px 10px 0px rgba(100, 100, 100, 0.1);}
 .shd-md {box-shadow: 0px 2px 15px 2px rgba(100, 100, 100, 0.1);}
 .shd-lg {box-shadow: 0px 4px 25px 4px rgba(100, 100, 100, 0.1);}
+
+/* !Misc */
+
+.book-item-title {
+
+}

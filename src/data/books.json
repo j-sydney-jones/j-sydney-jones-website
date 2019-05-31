@@ -1,0 +1,46 @@
+{
+    "books": [
+        {
+            "id": "the-edit",
+            "title": "The Edit",
+            "summary": "Summary",
+            "img": "/src/assets/images/edit.jpg",
+            "amzn": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "Review 1",
+                    "attr": "Attribution",
+                    "href": "https://google.com"
+                }
+            ]
+        },
+        {
+            "id": "basic-law",
+            "title": "Basic Law",
+            "summary": "Summary",
+            "img": "/src/assets/images/basiclaw.jpg",
+            "amzn": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "",
+            "title": "",
+            "summary": "",
+            "img": "",
+            "amzn": "",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,5 +1,9 @@
 import React, { Component } from "react";
 
+
+import BookItem from '../components/BookItem';
+
+
 export default class Home extends Component {
   render() {
     return (
@@ -12,7 +16,7 @@ export default class Home extends Component {
         <p className="attr-lg">&mdash; San Francisco Book Review</p>
         <p className="p-sm" />
 
-        <div classname="row">
+        <div className="row">
           <div className="col-lg-7">
             <div className="card shd-lg">
               <div className="card-body">
@@ -51,9 +55,20 @@ export default class Home extends Component {
             
           </div>
         </div>
+        <p className="p-sm" />
+        <h2 className="center" style={{paddingBottom: "1rem"}}>Recent Publications</h2>
+        <div className="flex-container">
+          <BookItem title={"The Edit"} img={"edit.jpg"} href={"/books/the-edit"}/>
+          <BookItem title={"Basic Law"} img={"basiclaw.jpg"} href={"/books/basic-law"}/>
+          <BookItem title={"The German Agent"} img={"agent.jpg"} href={"/the-german-agent"}/>
 
+
+
+        </div>
 
       </div>
     );
   }
 }
+
+
