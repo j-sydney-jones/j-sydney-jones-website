@@ -68,6 +68,36 @@ export default class About extends Component {
         </p>
         <p className="p-sm" />
         
+        <div className="card-group shd-lg">
+          <div className="card">
+            <div className="card-body">
+              <h5>E-mail</h5>
+              <p>Please send your comments and questions to the author's email</p>
+              <p>
+                <a className="btn" href="mailto:syd@jsydneyjones.com">Send E-mail &rarr;</a>
+              </p>
+            </div>
+          </div>
+          <div className="card">
+            <div className="card-body">
+              <h5>Blog</h5>
+              <p>Visit the author's blog, Scene of the Crime</p>
+              <p>
+                <a className="btn" href="https://jsydneyjones.wordpress.com/">Scene of the Crime &rarr;</a>
+              </p>
+            </div>
+          </div>
+          <div className="card">
+            <div className="card-body">
+              <h5>Facebook</h5>
+              <p>View the author's Facebook page</p>
+              <p>
+                <a className="btn" href="https://www.facebook.com/J-Sydney-Jones-Author-226721169288/">Facebook &rarr;</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        
       </div>
     );
   }
