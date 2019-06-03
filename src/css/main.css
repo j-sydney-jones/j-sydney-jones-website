@@ -64,6 +64,21 @@ a:hover{
     box-shadow: 0px 2px 15px 0px rgba(100, 100, 100, 0.1)!important;
 }
 
+
+.navbar-toggler {
+    border-color: #e7e8e9!important;
+    background-color: #e7e8e9;
+}
+
+.navbar-toggler:hover {
+    border-color: #e7e8e9!important;
+    background-color: #e7e8e9;
+    color: #e7e8e9!important;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
 /* !Styling */
 .shd-sm {box-shadow: 0px 0px 10px 0px rgba(100, 100, 100, 0.1);}
 .shd-md {box-shadow: 0px 2px 15px 2px rgba(100, 100, 100, 0.1);}
@@ -106,3 +121,79 @@ a:hover{
 
 .amzn {background-color: #ff9900!important}
 .amzn:hover {color: #ff9900!important}
+
+.ban {background-color: #59a364!important}
+.ban:hover {color: #59a364!important}
+
+.apl {background-color: #323232!important}
+.apl:hover {color: #323232!important}
+
+
+
+.book-cover {
+    /* float: none;
+    max-width: 100%; */
+    max-width: 100%;
+    
+    
+}
+#book-view-top {
+    /* margin-top: -5rem!important; */
+    
+}
+#book-view-text {
+    /* margin-t; */
+    float: right;
+    max-width: 75%;
+    
+}
+#book-view-image {
+    margin-top: -2rem;
+    float: left;
+    max-width: 25%;
+    padding-right: 2rem;
+}
+
+@media only screen and (max-width: 768px) {
+    /* .book-cover {
+        float: right;
+        max-width: 30%;
+        margin-top: 5rem;
+        margin-right: 1rem;
+        margin-left: 10rem; 
+        max-width: 35%;
+        float: right;
+        margin: 0.5rem;
+    } */
+    #book-view-top {
+        /* margin-top: -5rem!important; */
+        
+    }
+    #book-view-image {
+        margin-top: -2rem;
+        float: right;
+        max-width: 35%;
+        padding-right: 0;
+        margin-left: 1rem;
+    }
+    #book-view-text {
+        float: none;
+        /* margin-top: -2rem; */
+        max-width: 100%;
+    }
+}
+
+
+
+@media only screen and (min-width: 768px) {
+    .footer-hr {
+        border-color: #00000000;
+    }
+}
+
+
+
+
+
+
+

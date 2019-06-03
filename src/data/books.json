@@ -4,9 +4,11 @@
             "id": "the-edit",
             "type": "standalone",
             "title": "The Edit",
-            "summary": "Summary",
+            "summary": "On the coast of Central America, an aging man sits down to pen his memoirs. He begins with his childhood in Vienna, just after World War I, when his family lived in respectable poverty and his greatest pleasure was being rocked to sleep in the lap of his beloved babysitter. It would be a sweet tale if the author could withhold what comes later . . . but he intends to tell every horrifying detail of the truth. He’s a war criminal, a veteran of the elite Nazi brigade known as the SS, and he’ll write proudly of every atrocity he can recall. Distracting him from his work is inquisitive American journalist Kate O’Brien, who has come in search of a story. When Kate accidentally stumbles upon the old man's pages, he has no choice but to act, kidnapping her and locking her in his basement. His latest crime threatening to expose him, the proud Nazi will come face to face with the horrors of his past and the blackness of his soul. Impeccably researched and chillingly believable, The Edit is a truly unique novel of suspense written by J. Sydney Jones, author of Ruin Value, a groundbreaking mystery set in the shadow of the Nuremberg Trials. This time, Jones takes the reader into a truly horrifying place: deep within the mind of a Nazi.",
             "img": "edit.jpg",
             "amzn": "https://amazon.com",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
             "reviews": [
                 {
                     "review": "Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1",
@@ -27,6 +29,8 @@
             "summary": "Summary",
             "img": "basiclaw.jpg",
             "amzn": "https://amazon.com",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
             "reviews": [
                 {
                     "review": "",
@@ -47,6 +51,8 @@
             "summary": "Summary",
             "img": "emptymirror.jpg",
             "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
             "reviews": [
                 {
                     "review": "",
@@ -62,6 +68,8 @@
             "summary": "Summary",
             "img": "requiem.jpg",
             "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
             "reviews": [
                 {
                     "review": "",
@@ -82,6 +90,8 @@
             "summary": "Summary",
             "img": "tower.jpg",
             "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
             "reviews": [
                 {
                     "review": "",
