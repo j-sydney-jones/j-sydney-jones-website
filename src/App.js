@@ -4,6 +4,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Books from "./pages/Books";
+import BookView from "./pages/BookView";
 import Interviews from "./pages/Interviews";
 import Faq from "./pages/Faq";
 //components
@@ -21,7 +22,8 @@ export default class App extends Component {
           <Switch>
             <Route exact path="/" component={Home} />
             <Route path="/about" component={About} />
-            <Route path="/books" component={Books} />
+            <Route exact path="/books" component={Books} />
+            <Route exact path="/books/:id" component={BookView} />
             <Route path="/interviews" component={Interviews} />
             <Route path="/faq" component={Faq} />
           </Switch>

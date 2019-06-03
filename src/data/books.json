@@ -2,13 +2,19 @@
     "books": [
         {
             "id": "the-edit",
+            "type": "standalone",
             "title": "The Edit",
             "summary": "Summary",
-            "img": "/src/assets/images/edit.jpg",
+            "img": "edit.jpg",
             "amzn": "https://amazon.com",
             "reviews": [
                 {
-                    "review": "Review 1",
+                    "review": "Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1",
+                    "attr": "Attribution",
+                    "href": "https://google.com"
+                },
+                {
+                    "review": "Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1",
                     "attr": "Attribution",
                     "href": "https://google.com"
                 }
@@ -16,9 +22,10 @@
         },
         {
             "id": "basic-law",
+            "type": "standalone",
             "title": "Basic Law",
             "summary": "Summary",
-            "img": "/src/assets/images/basiclaw.jpg",
+            "img": "basiclaw.jpg",
             "amzn": "https://amazon.com",
             "reviews": [
                 {
@@ -28,11 +35,52 @@
                 }
             ]
         },
+        
+        
+        
+        
+        
+        { 
+            "id": "the-empty-mirror",
+            "type": "viennese",
+            "title": "The Empty Mirror",
+            "summary": "Summary",
+            "img": "emptymirror.jpg",
+            "amzn": "",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
         {
-            "id": "",
-            "title": "",
-            "summary": "",
-            "img": "",
+            "id": "requiem-in-vienna",
+            "type": "viennese",
+            "title": "Requirem in Vienna",
+            "summary": "Summary",
+            "img": "requiem.jpg",
+            "amzn": "",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        
+        
+        
+        
+        
+        {
+            "id": "the-man-in-the-tower",
+            "type": "nonfiction",
+            "title": "The Man in the Tower",
+            "summary": "Summary",
+            "img": "tower.jpg",
             "amzn": "",
             "reviews": [
                 {
