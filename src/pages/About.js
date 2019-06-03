@@ -9,16 +9,16 @@ export default class About extends Component {
         <p className="p-sm" />
         <img src={require("../assets/images/sydjones3.jpg")} style={{maxWidth: "14rem", float: "right", margin: "0 0 1rem 1rem"}} alt="J. Sydney Jones"/>
         <p>
-            The author of travel guides, biographies, and thrillers and mysteries
-            for adults, J. Sydney Jones pursues a central theme in all of his
-            work: illumination of the past in order to cast light on the present.
+            J. Sydney Jones is the author of travel guides, biographies, and thrillers and mysteries
+            for adults and young adults. {/*J. Sydney Jones pursues a central theme in all of his
+            work: illumination of the past in order to cast light on the present.*/}
             In his thrillers as well as his works of nonfiction, the emphasis is
             on historical insight.
         </p>
         <p>
             Born on a farm in northeastern South Dakota, Jones is one of four
             siblings. With the death of his father when Jones was five, the family
-            moved to Oregon, where Jones grew up a small coastal town. He attended
+            moved to Oregon, where Jones grew up in a small coastal town. He attended
             university in Oregon, and then studied abroad, an experience that
             changed his life and made him want to become a writer.
         </p>
@@ -59,8 +59,8 @@ export default class About extends Component {
             Jones has also published a number of stand-alone thrillers, including
             Ruin Value, The German Agent, Basic Law, and The Edit. He is currently
             at work on a mystery series set during World War II on the California
-            coast, as well as a contemporary espionage novel involving ghosts from
-            the Cold War.{""}
+            coast, a contemporary espionage novel involving ghosts from
+            the Cold War, and a young adult novel about refugees.
         </p>
         <p>
             When not writing books or freelancing, Jones enjoys tennis and walking
@@ -74,7 +74,7 @@ export default class About extends Component {
               <h5>E-mail</h5>
               <p>Please send your comments and questions to the author's email</p>
               <p>
-                <a className="btn" href="mailto:syd@jsydneyjones.com">Send E-mail &rarr;</a>
+                <a className="btn" href="mailto:syd@jsydneyjones.com">Send E-mail <i class="fas fa-chevron-right"></i></a>
               </p>
             </div>
           </div>
@@ -83,7 +83,7 @@ export default class About extends Component {
               <h5>Blog</h5>
               <p>Visit the author's blog, Scene of the Crime</p>
               <p>
-                <a className="btn" href="https://jsydneyjones.wordpress.com/">Scene of the Crime &rarr;</a>
+                <a className="btn" href="https://jsydneyjones.wordpress.com/" target="_blank" rel="noopener noreferrer">Scene of the Crime <i class="fas fa-chevron-right"></i></a>
               </p>
             </div>
           </div>
@@ -92,7 +92,7 @@ export default class About extends Component {
               <h5>Facebook</h5>
               <p>View the author's Facebook page</p>
               <p>
-                <a className="btn" href="https://www.facebook.com/J-Sydney-Jones-Author-226721169288/">Facebook &rarr;</a>
+                <a className="btn" href="https://www.facebook.com/J-Sydney-Jones-Author-226721169288/" target="_blank" rel="noopener noreferrer">Facebook <i class="fas fa-chevron-right"></i></a>
               </p>
             </div>
           </div>

@@ -1,0 +1,31 @@
+{
+    "interviews": [
+        {
+            "title": "Feature interview for The Keeper of Hands",
+            "attr": "J. Kingston Pierce",
+            "src": "Kirkus Reviews",
+            "href": "https://www.kirkusreviews.com/",
+            "date": "March 14, 2013",
+            "desc": "High Society Meets Low Murder in Jones' Imperial Vienna",
+            "more": "https://www.kirkusreviews.com/features/high-society-meets-low-murder-jones-imperial-vienn/"
+        },
+        {
+            "title": "Feature interview for The Keeper of Hands",
+            "attr": "J. Kingston Pierce",
+            "src": "Rap Sheet",
+            "href": "https://www.kirkusreviews.com/",
+            "date": "March 14, 2013",
+            "desc": "In Tune with Vintage Vienna",
+            "more": "https://therapsheet.blogspot.com/2013/05/in-tune-with-vintage-vienna.html"
+        },
+        {
+            "title": "",
+            "attr": "",
+            "src": "",
+            "href": "",
+            "date": "",
+            "desc": "",
+            "more": ""
+        }
+    ]
+}

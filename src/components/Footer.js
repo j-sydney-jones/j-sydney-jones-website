@@ -11,7 +11,7 @@ export default class Footer extends Component {
             <div>
                 <div className="container">
                     <p className="p-sm" />
-                    <button className="btn" onClick={this.scrollToTop}>Back to top &uarr;</button>
+                    <button className="btn" onClick={this.scrollToTop}>Back to top <i className="fas fa-chevron-up" /></button>
                     <p className="p-sm" />
                 </div>
                 <div className="footer">
@@ -35,7 +35,7 @@ export default class Footer extends Component {
                         </div>
                         <div className="col-md">
                             <h3>Contact</h3>
-                            <div className="flex-container " style={{ justifyContent: "left", }}>
+                            <div className="flex-container" style={{justifyContent: "left", marginLeft: "-7px"}}>
                                 <SocialMediaIcon icon={"fab fa-facebook-square"} href="https://www.facebook.com/J-Sydney-Jones-Author-226721169288/" nt={true}/>
                                 <SocialMediaIcon icon={"fas fa-envelope-square"} href="mailto:syd@jsydneyjones.com" nt={false}/>
                                 <SocialMediaIcon icon={"fab fa-wordpress"} href="https://jsydneyjones.wordpress.com/" nt={true}/>

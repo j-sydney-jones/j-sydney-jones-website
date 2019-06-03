@@ -23,13 +23,14 @@ export default class Home extends Component {
                     <img
                       src={require("../assets/images/sydjones3.jpg")}
                       alt="The author"
-                      style={{
-                        width: "100%",
-                        maxWidth: "256px",
-                        marginRight: "auto",
-                        marginLeft: "auto",
-                        display: "block"
-                      }}
+                      // style={{
+                      //   width: "100%",
+                      //   maxWidth: "256px",
+                      //   marginRight: "auto",
+                      //   marginLeft: "auto",
+                      //   display: "block"
+                      // }}
+                      id="home-page-image"
                     />
                     <p className="p-sm" />
                   </div>
@@ -52,7 +53,7 @@ export default class Home extends Component {
                       life and made him want to become a writer.
                     </p>
                     <a className="btn" href="/about">
-                      Read more &rarr;
+                      Read more <i className="fas fa-chevron-right" />
                     </a>
                   </div>
                 </div>
@@ -94,7 +95,7 @@ export default class Home extends Component {
           />
         </div>
         <p className="p-sm" />
-        <a className="btn" href="/books">View all books &rarr;</a>
+        <a className="btn" href="/books">View all books <i className="fas fa-chevron-right" /></a>
       </div>
     );
   }

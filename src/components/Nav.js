@@ -14,7 +14,7 @@ export default class Nav extends Component {
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <i class="material-icons">menu</i>
+          <i className="material-icons">menu</i>
         </button>
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
           <ul className="navbar-nav">
@@ -42,6 +42,9 @@ export default class Nav extends Component {
               <a className={`nav-link ${this.props.location === "/faq" ? "active": ""}`} href="/faq">
                 FAQ
               </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link" href="https://jsydneyjones.wordpress.com">Blog <i class="fas fa-sign-out-alt"></i></a>
             </li>
           </ul>
         </div>

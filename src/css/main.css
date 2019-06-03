@@ -21,12 +21,15 @@ p, a {font-family: "Roboto", "sans-serif";}
 a{
     color: #212529;
     text-decoration: none;
+    transition: all 250ms;
 }
 
 a:hover{
     color: #50555a;
     text-decoration: none;
+    transition: all 250ms;
 }
+
 
 
 /* !Spacing */
@@ -195,8 +198,18 @@ a:hover{
 }
 
 
+#home-page-image {
+    width: 100%;
+}
 
 
-
+@media only screen and (max-width: 575px) {
+    #home-page-image {
+        height: 20rem;
+        width: 100%;
+        object-fit: cover;
+        object-position: 0 20%;
+    }
+}
 
 
