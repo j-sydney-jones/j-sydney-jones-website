@@ -14,9 +14,10 @@ export default class Interviews extends Component {
                     return (
                         <div key={interview.title + interview.attr + interview.desc}>
                             <h4>{interview.title}</h4>
+                            <h5>{interview.desc}</h5>
                             <h6>{interview.date}</h6>
                             <p className="attr-sm">{`— ${interview.attr}, `}<a href={interview.href} target="_blank" rel="noopener noreferrer">{interview.src}</a></p>
-                            <p>{interview.desc}</p>
+                            <p>{`${interview.prev}...`}</p>
                             <a className="btn" href={interview.more} target="_blank" rel="noopener noreferrer">Read more <i class="fas fa-chevron-right" /></a>
                             <p className="p-sm" />
                         </div>

@@ -19,6 +19,7 @@ export default class extends Component {
                                 <BookItem href={`/books/${book.id}`} img={`${book.img}`} title={`${book.title}`} key={book.id}/>
                             );
                         }
+                        return null;
                     })}
                 </div>
                 <h2 className="center">Viennese Mysteries</h2>
@@ -30,6 +31,7 @@ export default class extends Component {
                                 <BookItem href={`/books/${book.id}`} img={`${book.img}`} title={`${book.title}`} key={book.id}/>
                             );
                         }
+                        return null;
                     })}
                 </div>
                 <h2 className="center">Nonfiction</h2>
@@ -41,6 +43,7 @@ export default class extends Component {
                                 <BookItem href={`/books/${book.id}`} img={`${book.img}`} title={`${book.title}`} key={book.id}/>
                             );
                         }
+                        return null;
                     })}
                 </div>
             </div>

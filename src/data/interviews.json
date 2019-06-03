@@ -1,30 +1,33 @@
 {
     "interviews": [
         {
-            "title": "Feature interview for The Keeper of Hands",
+            "title": "High Society Meets Low Murder in Jones' Imperial Vienna",
+            "desc": "Feature interview for The Keeper of Hands",
             "attr": "J. Kingston Pierce",
             "src": "Kirkus Reviews",
             "href": "https://www.kirkusreviews.com/",
             "date": "March 14, 2013",
-            "desc": "High Society Meets Low Murder in Jones' Imperial Vienna",
+            "prev": "J. Sydney Jones’ introduction to Vienna came in 1968, when, as a college student from Oregon, he took advantage of a year-abroad program to study in the history- and culture-rich, but then rather “rough-hewn” Austrian capital. “Other kids my age,” he’s written before, “were off killing and being killed in Southeast Asia; I had a bad back and a high lottery number—4F and a lucky winner....I went to Vienna planning to become a lawyer; I left knowing I would be a writer.” That experience marked the beginning of Jones’ love affair with the old imperial city, a relationship that later led him to live there for most of two decades, pen guide books about the place and, more recently, produce a succession of historical whodunits that recapture Vienna at the apex of its early 20th-century artistic and intellectual fecundity",
             "more": "https://www.kirkusreviews.com/features/high-society-meets-low-murder-jones-imperial-vienn/"
         },
         {
-            "title": "Feature interview for The Keeper of Hands",
+            "title": "In Tune with Vintage Vienna",
+            "desc": "Feature interview for The Keeper of Hands",
             "attr": "J. Kingston Pierce",
-            "src": "Rap Sheet",
-            "href": "https://www.kirkusreviews.com/",
+            "src": "The Rap Sheet",
+            "href": "https://therapsheet.blogspot.com/",
             "date": "March 14, 2013",
-            "desc": "In Tune with Vintage Vienna",
+            "prev": "In case you haven’t noticed it yet, the first part of my recent interview with historical novelist J. Sydney Jones was posted this morning on the Kirkus Reviews Web site. This is of course timed to correspond with the release of Jones’ fourth and latest Karl Werthen “Viennese Mystery,” The Keeper of Hands (Severn House), the plot of which its publisher describes this way",
             "more": "https://therapsheet.blogspot.com/2013/05/in-tune-with-vintage-vienna.html"
         },
         {
             "title": "",
+            "desc": "",
             "attr": "",
             "src": "",
             "href": "",
             "date": "",
-            "desc": "",
+            "prev": "",
             "more": ""
         }
     ]
