@@ -11,7 +11,7 @@ export default class Footer extends Component {
             <div>
                 <div className="container">
                     <p className="p-sm" />
-                    <button className="btn" onClick={this.scrollToTop}>Back to top <i className="fas fa-chevron-up" /></button>
+                    <button className="btn" onClick={this.scrollToTop}>Back to top <i className="ion-ios-arrow-up" /></button>
                     <p className="p-sm" />
                 </div>
                 <div className="footer">

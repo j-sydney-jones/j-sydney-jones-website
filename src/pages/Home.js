@@ -2,13 +2,14 @@ import React, { Component } from "react";
 
 import BookItem from "../components/BookItem";
 
+
 export default class Home extends Component {
   render() {
     return (
       <div className="container">
         <p className="p-sm" />
         <h1 className="quote-lg">
-          "Jones is one of the Jewels of the hisotical mystery scene."
+          "Jones is one of the Jewels of the historical mystery scene."
         </h1>
         <p className="p-sm" />
         <p className="attr-lg">&mdash; San Francisco Book Review</p>
@@ -37,15 +38,16 @@ export default class Home extends Component {
                   <div className="col-sm-7">
                     <h2>About the author</h2>
                     <p>
-                      The author of travel guides, biographies, and thrillers
-                      and mysteries for adults, J. Sydney Jones pursues a
-                      central theme in all of his work: illumination of the past
-                      in order to cast light on the present. In his thrillers as
-                      well as his works of nonfiction, the emphasis is on
-                      historical insight.
+                      J. Sydney Jones is the author of travel guides,
+                      biographies, and thrillers and mysteries for adults and
+                      young adults.{" "}
+                      {/*J. Sydney Jones pursues a central theme in all of his
+                      work: illumination of the past in order to cast light on the present.*/}
+                      In his thrillers as well as his works of nonfiction, the
+                      emphasis is on historical insight.
                     </p>
                     <p>
-                      Born on afarm in northeastern South Dakota, Jones is one
+                      Born on a farm in northeastern South Dakota, Jones is one
                       of four siblings. With the death of his father when Jones
                       was five, the family moved to Oregon, where Jones grew up
                       a small coastal town. He attended university in Oregon,
@@ -53,7 +55,7 @@ export default class Home extends Component {
                       life and made him want to become a writer.
                     </p>
                     <a className="btn" href="/about">
-                      Read more <i className="fas fa-chevron-right" />
+                      Read more <i className="ion-ios-arrow-forward" />
                     </a>
                   </div>
                 </div>
@@ -95,7 +97,9 @@ export default class Home extends Component {
           />
         </div>
         <p className="p-sm" />
-        <a className="btn" href="/books">View all books <i className="fas fa-chevron-right" /></a>
+        <a className="btn" href="/books">
+          View all books <i className="ion-ios-arrow-forward" />
+        </a>
       </div>
     );
   }

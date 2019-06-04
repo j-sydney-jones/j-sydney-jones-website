@@ -18,5 +18,13 @@
 .header p {
     font-family: "Roboto", "sans-serif";
     font-size: 1.25rem;
+    font-weight: 700px;
+}
+
+.header-img {
+    object-position: 0 30%;
+    object-fit: cover;
+    height: 10rem;
+    width: 100%;
 }
 

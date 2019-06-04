@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Nav extends Component {
   render() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+      <nav className="navbar navbar-expand-sm navbar-light bg-light sticky-top">
         
         <button
           className="navbar-toggler"
