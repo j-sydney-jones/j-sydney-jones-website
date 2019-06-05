@@ -1,17 +1,15 @@
 {
     "reviews": [
         {
-            "title": "High Society Meets Low Murder in Jones' Imperial Vienna",
-            "attr": "J. Kingston Pierce",
-            "src": "Kirkus Reviews",
-            "href": "https://www.kirkusreviews.com/",
-            "date": "March 14, 2013",
-            "prev": "J. Sydney Jones’ introduction to Vienna came in 1968, when, as a college student from Oregon, he took advantage of a year-abroad program to study in the history- and culture-rich, but then rather “rough-hewn” Austrian capital. “Other kids my age,” he’s written before, “were off killing and being killed in Southeast Asia; I had a bad back and a high lottery number—4F and a lucky winner....I went to Vienna planning to become a lawyer; I left knowing I would be a writer.” That experience marked the beginning of Jones’ love affair with the old imperial city, a relationship that later led him to live there for most of two decades, pen guide books about the place and, more recently, produce a succession of historical whodunits that recapture Vienna at the apex of its early 20th-century artistic and intellectual fecundity",
-            "more": "https://www.kirkusreviews.com/features/high-society-meets-low-murder-jones-imperial-vienn/"
+            "title": "Review for Hitler in Vienna",
+            "src": "New York Review of Books",
+            "href": "https://www.nybooks.com/",
+            "date": "1981",
+            "prev": "Lively and perceptive",
+            "more": "need link"
         },
         {
             "title": "In Tune with Vintage Vienna",
-            "attr": "J. Kingston Pierce",
             "src": "The Rap Sheet",
             "href": "https://therapsheet.blogspot.com/",
             "date": "March 14, 2013",
@@ -20,7 +18,6 @@
         },
         {
             "title": "",
-            "attr": "",
             "src": "",
             "href": "",
             "date": "",

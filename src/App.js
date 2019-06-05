@@ -11,27 +11,27 @@ import Faq from "./pages/Faq";
 //components
 import Header from "./components/Header";
 import Nav from "./components/Nav";
-import Footer from './components/Footer';
+import Footer from "./components/Footer";
 
 export default class App extends Component {
-  render() {
-    return (
-      <div>
-        <Header />
-        <Nav location={window.location.pathname} />
-        <BrowserRouter>
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route path="/about" component={About} />
-            <Route exact path="/books" component={Books} />
-            <Route exact path="/books/:id" component={BookView} />
-            <Route path="/interviews" component={Interviews} />
-            <Route path="/reviews" component={Reviews} />
-            <Route path="/faq" component={Faq} />
-          </Switch>
-        </BrowserRouter>
-        <Footer />
-      </div>
-    );
-  }
+    render() {
+        return (
+            <div>
+                <Header />
+                <Nav location={window.location.pathname} />
+                <BrowserRouter>
+                    <Switch>
+                        <Route exact path="/" component={Home} />
+                        <Route path="/about" component={About} />
+                        <Route exact path="/books" component={Books} />
+                        <Route exact path="/books/:id" component={BookView} />
+                        <Route path="/interviews" component={Interviews} />
+                        <Route path="/reviews" component={Reviews} />
+                        <Route path="/faq" component={Faq} />
+                    </Switch>
+                </BrowserRouter>
+                <Footer />
+            </div>
+        );
+    }
 }

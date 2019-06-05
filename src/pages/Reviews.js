@@ -26,7 +26,7 @@ export default class Reviews extends Component {
                         <div key={review.title + review.attr + review.desc}>
                             <h4>{review.title}</h4>
                             <h6>{review.date}</h6>
-                            <p className="attr-sm">{`— ${review.attr}, `}<a href={review.href} target="_blank" rel="noopener noreferrer">{review.src}</a></p>
+                            <p className="attr-sm">{`— `}<a href={review.href} target="_blank" rel="noopener noreferrer">{review.src}</a></p>
                             <p>{`${review.prev}...`}</p>
                             {review.more === "" ? (
                                 null
