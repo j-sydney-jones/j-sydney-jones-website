@@ -85,6 +85,10 @@ a:hover{
 .navbar-toggler:focus {
     outline: none;
 }
+
+.container {
+    z-index: 5;
+}
 /* !Styling */
 .shd-sm {box-shadow: 0px 0px 10px 0px rgba(100, 100, 100, 0.1);}
 .shd-md {box-shadow: 0px 2px 15px 2px rgba(100, 100, 100, 0.1);}

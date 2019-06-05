@@ -6,6 +6,7 @@ import About from "./pages/About";
 import Books from "./pages/Books";
 import BookView from "./pages/BookView";
 import Interviews from "./pages/Interviews";
+import Reviews from "./pages/Reviews";
 import Faq from "./pages/Faq";
 //components
 import Header from "./components/Header";
@@ -25,6 +26,7 @@ export default class App extends Component {
             <Route exact path="/books" component={Books} />
             <Route exact path="/books/:id" component={BookView} />
             <Route path="/interviews" component={Interviews} />
+            <Route path="/reviews" component={Reviews} />
             <Route path="/faq" component={Faq} />
           </Switch>
         </BrowserRouter>

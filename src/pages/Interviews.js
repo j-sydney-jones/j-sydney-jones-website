@@ -18,7 +18,7 @@ export default class Interviews extends Component {
                             <h6>{interview.date}</h6>
                             <p className="attr-sm">{`— ${interview.attr}, `}<a href={interview.href} target="_blank" rel="noopener noreferrer">{interview.src}</a></p>
                             <p>{`${interview.prev}...`}</p>
-                            <a className="btn" href={interview.more} target="_blank" rel="noopener noreferrer">Read more <i class="fas fa-chevron-right" /></a>
+                            <a className="btn" href={interview.more} target="_blank" rel="noopener noreferrer">Read more <i className="ion-ios-arrow-forward" /></a>
                             <p className="p-sm" />
                         </div>
                     );

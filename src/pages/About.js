@@ -74,7 +74,7 @@ export default class About extends Component {
               <h5>E-mail</h5>
               <p>Please send your comments and questions to the author's email</p>
               <p>
-                <a className="btn" href="mailto:syd@jsydneyjones.com">Send E-mail <i class="ion-ios-arrow-up"></i></a>
+                <a className="btn" href="mailto:syd@jsydneyjones.com">Send E-mail <i className="ion-ios-arrow-forward"></i></a>
               </p>
             </div>
           </div>
@@ -83,7 +83,7 @@ export default class About extends Component {
               <h5>Blog</h5>
               <p>Visit the author's blog, Scene of the Crime</p>
               <p>
-                <a className="btn" href="https://jsydneyjones.wordpress.com/" target="_blank" rel="noopener noreferrer">Scene of the Crime <i class="ion-ios-arrow-up"></i></a>
+                <a className="btn" href="https://jsydneyjones.wordpress.com/" target="_blank" rel="noopener noreferrer">Scene of the Crime <i className="ion-ios-arrow-forward"></i></a>
               </p>
             </div>
           </div>
@@ -92,7 +92,7 @@ export default class About extends Component {
               <h5>Facebook</h5>
               <p>View the author's Facebook page</p>
               <p>
-                <a className="btn" href="https://www.facebook.com/J-Sydney-Jones-Author-226721169288/" target="_blank" rel="noopener noreferrer">Facebook <i class="ion-ios-arrow-up"></i></a>
+                <a className="btn" href="https://www.facebook.com/J-Sydney-Jones-Author-226721169288/" target="_blank" rel="noopener noreferrer">Facebook <i className="ion-ios-arrow-forward"></i></a>
               </p>
             </div>
           </div>

@@ -72,7 +72,7 @@ export default class BookView extends Component {
                         <div key={Math.random()}>
                             <p className="quote-sm">{`"${review.review}"`}</p>
                             <p className="attr-sm">{`—${review.attr}`}</p>
-                            <a className="btn" target="_blank" rel="noopener noreferrer" href={review.href}>View source <i class="fas fa-chevron-right" /></a>
+                            <a className="btn" target="_blank" rel="noopener noreferrer" href={review.href}>View source <i className="ion-ios-arrow-forward" /></a>
                             <hr />
                         </div>
                     );

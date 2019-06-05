@@ -26,5 +26,7 @@
     object-fit: cover;
     height: 10rem;
     width: 100%;
+    z-index: -100!important;
 }
+
 

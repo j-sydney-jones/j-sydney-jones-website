@@ -34,6 +34,11 @@ export default class Nav extends Component {
               </a>
             </li>
             <li className="nav-item">
+              <a className={`nav-link ${this.props.location === "/reviews" ? "active": ""}`} href="/reviews">
+                Reviews
+              </a>
+            </li>
+            <li className="nav-item">
               <a className={`nav-link ${this.props.location === "/interviews" ? "active": ""}`} href="/interviews">
                 Interviews
               </a>
@@ -44,7 +49,7 @@ export default class Nav extends Component {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://jsydneyjones.wordpress.com" target="_blank" rel="noopener noreferrer">Blog <i className="fas fa-sign-out-alt"></i></a>
+              <a className="nav-link" href="https://jsydneyjones.wordpress.com" target="_blank" rel="noopener noreferrer">Blog <i className="ion-ios-open"></i></a>
             </li>
           </ul>
         </div>
