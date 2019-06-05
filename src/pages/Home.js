@@ -42,8 +42,7 @@ export default class Home extends Component {
                                             travel guides, biographies, and
                                             thrillers and mysteries for adults
                                             and young adults.{" "}
-                                            {/*J. Sydney Jones pursues a central theme in all of his
-                      work: illumination of the past in order to cast light on the present.*/}
+                                            
                                             In his thrillers as well as his
                                             works of nonfiction, the emphasis is
                                             on historical insight.
@@ -73,11 +72,15 @@ export default class Home extends Component {
                     <div className="col-lg-5">
                         <div className="card shd-lg">
                             <div className="card-body">
-                                <h2>Another element</h2>
+                                <h2>What the critics are saying</h2>
                                 <p>
                                     Similar to the "About the author" card, a
                                     preview to another page can go here.
                                 </p>
+                                <a className="btn" href="/reviews">
+                                    Read more{" "}
+                                    <i className="ion-ios-arrow-forward" />
+                                </a>
                             </div>
                         </div>
                     </div>
