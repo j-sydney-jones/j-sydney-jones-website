@@ -26,7 +26,7 @@
             "id": "basic-law",
             "type": "standalone",
             "title": "Basic Law",
-            "summary": "Summary",
+            "summary": "Expat American journalist Sam Kramer is burned out: too many dead bodies, too many wars covered, too little meaning in it all. He's got a dead-end job at the Daily European as the correspondent for Vienna, where nothing happens now that the Cold War is over. And that is exactly how Kramer likes it. But his private neutral zone is shattered with news of the suicide of Reni Müller, a German left-wing firebrand and Kramer's long-estranged ex-girlfriend. To his surprise, Kramer suddenly finds himself the executor of Reni's literary estate-but the damning memoir named in her will is nowhere to be found. Tracking down the manuscript will lead Kramer to the unsettling truth of Reni's death, drawing him back into the days of the Cold War and showing him the dark side of the woman he loved.",
             "img": "basiclaw.jpg",
             "amzn": "https://amazon.com",
             "ban": "https://amazon.com",
@@ -43,7 +43,7 @@
             "id": "the-german-agent",
             "type": "standalone",
             "title": "The German Agent",
-            "summary": "Summary",
+            "summary": "February, 1917. A lone German agent is despatched to Washington to prevent the British delivering a telegram to President Wilson – by any means possible. For this is the Zimmermann telegram: it contains a devastating piece of news which is sure to bring the USA into the war on the side of Britain and her allies. Having fought in the trenches himself, Max Volkman knows that America’s involvement will only prolong the slaughter of innocents and is implacable in his determination to kill the British envoy carrying the telegram. But when his pursuit of the Englishman leads him to the home of American heiress Catherine Fitzgerald, wife to one of Washington’s most powerful politicians, he is presented with a terrible choice: loyalty to his comrades in the trenches or the loss of the one woman he has ever truly loved. His decision will determine the outcome of the First World War.",
             "img": "agent.jpg",
             "amzn": "https://amazon.com",
             "ban": "https://amazon.com",
@@ -135,7 +135,7 @@
             "id": "the-empty-mirror",
             "type": "viennese",
             "title": "The Empty Mirror",
-            "summary": "Summary",
+            "summary": "Fin-de-siecle Vienna comes to life in this colorful historical thriller featuring the artist Gustav Klimt. It's the summer of 1898 and Austria is transfixed by a series of brutal murders. When renowned painter Gustav Klimt's female model becomes the fifth victim, the artist is fingered as the culprit. Klimt's lawyer, Werthen and his friend, the famed criminologist Inspector Gross must delve into a nationwide conspiracy in order to acquit the unusual and unpredictable artiste. With an unmatched knowledge of Vienna's history, culture, and politics, J. Sydney Jones introduces a gripping new mystery series set in a cosmopolitan city at the height of its artistic and social importance.",
             "img": "emptymirror.jpg",
             "amzn": "",
             "ban": "https://amazon.com",
@@ -227,6 +227,125 @@
             "title": "The Man in the Tower",
             "summary": "Summary",
             "img": "tower.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "hitler-in-vienna",
+            "type": "nonfiction",
+            "title": "Hitler in Vienna",
+            "summary": "Summary",
+            "img": "hitler.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "viennawalks",
+            "type": "nonfiction",
+            "title": "Viennawalks",
+            "summary": "Summary",
+            "img": "viennawalks.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "tramping-in-europe",
+            "type": "nonfiction",
+            "title": "Tramping in Europe",
+            "summary": "Summary",
+            "img": "tramping.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "the-crusades-reference-library-primary-sources",
+            "type": "nonfiction",
+            "title": "The Crusades Reference Library: Primary Sources",
+            "summary": "Summary",
+            "img": "crusades.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "vienna-inside-out",
+            "type": "nonfiction",
+            "title": "Vienna Inside Out",
+            "summary": "Summary",
+            "img": "insideout.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "150-jahre-wiener-ringstrasse",
+            "type": "nonfiction",
+            "title": "150 Jahre Wiener Ringstraße (contributor of \"Walls Became Windows\")",
+            "summary": "Summary",
+            "img": "150-jahre.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "bike-and-hike",
+            "type": "nonfiction",
+            "title": "Bike and Hike",
+            "summary": "Summary",
+            "img": "bike.jpg",
             "amzn": "",
             "ban": "https://amazon.com",
             "apl": "https://amazon.com",
