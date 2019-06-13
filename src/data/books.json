@@ -6,7 +6,7 @@
             "title": "The Edit",
             "summary": "On the coast of Central America, an aging man sits down to pen his memoirs. He begins with his childhood in Vienna, just after World War I, when his family lived in respectable poverty and his greatest pleasure was being rocked to sleep in the lap of his beloved babysitter. It would be a sweet tale if the author could withhold what comes later . . . but he intends to tell every horrifying detail of the truth. He’s a war criminal, a veteran of the elite Nazi brigade known as the SS, and he’ll write proudly of every atrocity he can recall. Distracting him from his work is inquisitive American journalist Kate O’Brien, who has come in search of a story. When Kate accidentally stumbles upon the old man's pages, he has no choice but to act, kidnapping her and locking her in his basement. His latest crime threatening to expose him, the proud Nazi will come face to face with the horrors of his past and the blackness of his soul. Impeccably researched and chillingly believable, The Edit is a truly unique novel of suspense written by J. Sydney Jones, author of Ruin Value, a groundbreaking mystery set in the shadow of the Nuremberg Trials. This time, Jones takes the reader into a truly horrifying place: deep within the mind of a Nazi.",
             "img": "edit.jpg",
-            "amzn": "https://amazon.com",
+            "amzn": "https://www.amazon.com/Edit-Novel-J-Sydney-Jones/dp/1504038738/",
             "ban": "https://amazon.com",
             "apl": "https://amazon.com",
             "reviews": [
@@ -39,6 +39,93 @@
                 }
             ]
         },
+        {
+            "id": "the-german-agent",
+            "type": "standalone",
+            "title": "The German Agent",
+            "summary": "Summary",
+            "img": "agent.jpg",
+            "amzn": "https://amazon.com",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "ruin-value",
+            "type": "standalone",
+            "title": "Ruin Value",
+            "summary": "Summary",
+            "img": "ruinvalue.jpg",
+            "amzn": "https://amazon.com",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "Frankie",
+            "type": "standalone",
+            "title": "Frankie",
+            "summary": "Summary",
+            "img": "frankie.jpg",
+            "amzn": "https://amazon.com",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "the-hero-game",
+            "type": "standalone",
+            "title": "The Hero Game",
+            "summary": "Summary",
+            "img": "herogame.jpg",
+            "amzn": "https://amazon.com",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "time-of-the-wolf",
+            "type": "standalone",
+            "title": "Time of the Wolf",
+            "summary": "Summary",
+            "img": "wolf.jpg",
+            "amzn": "https://amazon.com",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        
+        
         
         
         
@@ -67,6 +154,57 @@
             "title": "Requirem in Vienna",
             "summary": "Summary",
             "img": "requiem.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "the-silence",
+            "type": "viennese",
+            "title": "The Silence",
+            "summary": "Summary",
+            "img": "silence.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "the-keeper-of-hands",
+            "type": "viennese",
+            "title": "The Keeper of Hands",
+            "summary": "Summary",
+            "img": "keeper.jpg",
+            "amzn": "",
+            "ban": "https://amazon.com",
+            "apl": "https://amazon.com",
+            "reviews": [
+                {
+                    "review": "",
+                    "attr": "",
+                    "href": ""
+                }
+            ]
+        },
+        {
+            "id": "the-third-place",
+            "type": "viennese",
+            "title": "The Third Place",
+            "summary": "Summary",
+            "img": "thirdplace.jpg",
             "amzn": "",
             "ban": "https://amazon.com",
             "apl": "https://amazon.com",
