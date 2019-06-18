@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 import BookItem from "../components/BookItem";
-import {HomeReviewItem} from '../components/HomeReviewItem'
+import HomeReviewItem from '../components/HomeReviewItem'
 
 export default class Home extends Component {
     render() {
@@ -76,11 +76,11 @@ export default class Home extends Component {
                         <div className="card shd-lg">
                             <div className="card-body">
                                 <h2>What the critics are saying</h2>
-                                <p>
-                                    Similar to the "About the author" card, a
-                                    preview to another page can go here.
-                                </p>
-                                <HomeReviewItem index="1" />
+                                
+                                <HomeReviewItem 
+                                    rev="reviews go here"
+                                    attr="name of reviewer"
+                                />
                                 <a className="btn" href="/reviews">
                                     Read more{" "}
                                     <i className="ion-ios-arrow-forward" />
