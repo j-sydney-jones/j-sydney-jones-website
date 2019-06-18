@@ -7,18 +7,13 @@
             "summary": "On the coast of Central America, an aging man sits down to pen his memoirs. He begins with his childhood in Vienna, just after World War I, when his family lived in respectable poverty and his greatest pleasure was being rocked to sleep in the lap of his beloved babysitter. It would be a sweet tale if the author could withhold what comes later . . . but he intends to tell every horrifying detail of the truth. He’s a war criminal, a veteran of the elite Nazi brigade known as the SS, and he’ll write proudly of every atrocity he can recall. Distracting him from his work is inquisitive American journalist Kate O’Brien, who has come in search of a story. When Kate accidentally stumbles upon the old man's pages, he has no choice but to act, kidnapping her and locking her in his basement. His latest crime threatening to expose him, the proud Nazi will come face to face with the horrors of his past and the blackness of his soul. Impeccably researched and chillingly believable, The Edit is a truly unique novel of suspense written by J. Sydney Jones, author of Ruin Value, a groundbreaking mystery set in the shadow of the Nuremberg Trials. This time, Jones takes the reader into a truly horrifying place: deep within the mind of a Nazi.",
             "img": "edit.jpg",
             "amzn": "https://www.amazon.com/Edit-Novel-J-Sydney-Jones/dp/1504038738/",
-            "ban": "https://amazon.com",
-            "apl": "https://amazon.com",
+            "ban": "https://www.barnesandnoble.com/w/the-edit-j-sydney-jones/1123867560",
+            "apl": "https://books.apple.com/us/book/the-edit/id1119396643",
             "reviews": [
                 {
-                    "review": "Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1",
-                    "attr": "Attribution",
-                    "href": "https://google.com"
-                },
-                {
-                    "review": "Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1 Review 1",
-                    "attr": "Attribution",
-                    "href": "https://google.com"
+                    "review": "Jones brings deliciously dark humor to his psychological thriller, a worthy cousin to John Fowles’ classic The Collector.",
+                    "attr": "Kirkus Reviews",
+                    "href": "https://www.kirkusreviews.com/book-reviews/j-sydney-jones/the-edit/"
                 }
             ]
         },
@@ -28,14 +23,19 @@
             "title": "Basic Law",
             "summary": "Expat American journalist Sam Kramer is burned out: too many dead bodies, too many wars covered, too little meaning in it all. He's got a dead-end job at the Daily European as the correspondent for Vienna, where nothing happens now that the Cold War is over. And that is exactly how Kramer likes it. But his private neutral zone is shattered with news of the suicide of Reni Müller, a German left-wing firebrand and Kramer's long-estranged ex-girlfriend. To his surprise, Kramer suddenly finds himself the executor of Reni's literary estate-but the damning memoir named in her will is nowhere to be found. Tracking down the manuscript will lead Kramer to the unsettling truth of Reni's death, drawing him back into the days of the Cold War and showing him the dark side of the woman he loved.",
             "img": "basiclaw.jpg",
-            "amzn": "https://amazon.com",
-            "ban": "https://amazon.com",
-            "apl": "https://amazon.com",
+            "amzn": "https://www.amazon.com/Basic-Law-Mystery-Cold-Europe/dp/1497690471/",
+            "ban": "https://www.barnesandnoble.com/w/basic-law-j-sydney-jones/1120578848#/",
+            "apl": "https://books.apple.com/us/book/basic-law/id945547575",
             "reviews": [
                 {
-                    "review": "",
-                    "attr": "",
-                    "href": ""
+                    "review": "A perfect blend of thriller and whodunit, Basic Law provides an absorbing look at a perilous time. A yarn spun with skill and chills, moral absolutes and moral ambiguities, it challenges the reader from first to last page.",
+                    "attr": "Richmond Times-Dispatch",
+                    "href": "https://www.richmond.com/entertainment/books/article_a55ed471-3efa-5170-88a9-f509c304593a.html"
+                },
+                {
+                    "review": "This is the second book I've read by this excellent author. The previous book, Ruin Value, had a meaning in the title and Basic Law also has a meaning as you come to realise, as you get involved in the book. A very good thriller, which keeps the storyline interesting and leaves you wanting more. Highly recommended.",
+                    "attr": "Euro Crime",
+                    "href": "http://www.eurocrime.co.uk/reviews/Basic_Law.html"
                 }
             ]
         },
@@ -45,14 +45,19 @@
             "title": "The German Agent",
             "summary": "February, 1917. A lone German agent is despatched to Washington to prevent the British delivering a telegram to President Wilson – by any means possible. For this is the Zimmermann telegram: it contains a devastating piece of news which is sure to bring the USA into the war on the side of Britain and her allies. Having fought in the trenches himself, Max Volkman knows that America’s involvement will only prolong the slaughter of innocents and is implacable in his determination to kill the British envoy carrying the telegram. But when his pursuit of the Englishman leads him to the home of American heiress Catherine Fitzgerald, wife to one of Washington’s most powerful politicians, he is presented with a terrible choice: loyalty to his comrades in the trenches or the loss of the one woman he has ever truly loved. His decision will determine the outcome of the First World War.",
             "img": "agent.jpg",
-            "amzn": "https://amazon.com",
-            "ban": "https://amazon.com",
-            "apl": "https://amazon.com",
+            "amzn": "https://www.amazon.com/GERMAN-Sydney-AUTHOR-Jan-01-2015-Hardcover/dp/B00Q7T8MXU/",
+            "ban": "https://www.barnesandnoble.com/w/the-german-agent-j-sydney-jones/1120693290",
+            "apl": "",
             "reviews": [
                 {
-                    "review": "",
-                    "attr": "",
-                    "href": ""
+                    "review": "well-written...espionage thriller",
+                    "attr": "Kirkus Reviews",
+                    "href": "https://www.kirkusreviews.com/features/assassination-vocation/"
+                },
+                {
+                    "review": "This book is centred around one of the most intriguing diplomatic incidents of World War I - the Zimmermann Telegram.",
+                    "attr": "Crime Fiction Lover",
+                    "href": "https://crimefictionlover.com/2014/12/good-bye-2014-hello-tess-gerritsen/"
                 }
             ]
         },
@@ -60,16 +65,21 @@
             "id": "ruin-value",
             "type": "standalone",
             "title": "Ruin Value",
-            "summary": "Summary",
+            "summary": "Nuremberg is a dead city. In the aftermath of World War II, two-thirds of its population has fled or is deceased, with thirty thousand bodies turning the ruined industrial center into a massive open grave. Here, the vilest war criminals in history will be tried. But in Nuremberg’s dark streets and back alleys, chaos rules. Captain Nathan Morgan is one of those charged with bringing order to the home of the war crime trials. A New York homicide detective who spent the war in Army intelligence, he was born to be a spy—and now, in 1945, there is no finer place for his trade than Nuremberg. As the US grapples with the Soviets for postwar supremacy, a serial murderer targets the occupying forces. Nathan Morgan may be the perfect spy, but it’s time for him to turn cop once more.",
             "img": "ruinvalue.jpg",
-            "amzn": "https://amazon.com",
-            "ban": "https://amazon.com",
-            "apl": "https://amazon.com",
+            "amzn": "https://www.amazon.com/Ruin-Value-Mystery-Third-Reich/dp/1480426911",
+            "ban": "https://www.barnesandnoble.com/w/ruin-value-j-sydney-jones/1115315352#/",
+            "apl": "https://books.apple.com/us/book/ruin-value/id694937328",
             "reviews": [
                 {
-                    "review": "",
-                    "attr": "",
-                    "href": ""
+                    "review": "The story is solid and suspenseful …but it’s the relationship between Morgan and Beck, two men who don’t like or trust one another, that makes the book such a rich, powerful read. Fans of WWII mystery fiction should consider this one mandatory reading.",
+                    "attr": "Booklist",
+                    "href": "https://www.booklistonline.com/Ruin-Value-J-Sydney-Jones/pid=6271867"
+                },
+                {
+                    "review": "Capt. Nathan Morgan, an NYPD homicide detective, and Chief Insp. Werner Beck, a former German Kripo investigator … make a promising sleuthing pair.",
+                    "attr": "Publishers Weekly",
+                    "href": "https://www.publishersweekly.com/978-1-4804-2691-7"
                 }
             ]
         },
@@ -77,15 +87,20 @@
             "id": "Frankie",
             "type": "standalone",
             "title": "Frankie",
-            "summary": "Summary",
+            "summary": "Adventure, mystery, and the stirrings of first love blend together in this fast-paced novel, which brings to life a little-known episode of our history, the miners' unrest and the tragic Ludlow Massacre of 1913-1914 in southern Colorado.",
             "img": "frankie.jpg",
-            "amzn": "https://amazon.com",
-            "ban": "https://amazon.com",
-            "apl": "https://amazon.com",
+            "amzn": "https://www.amazon.com/Frankie-J-Sydney-Jones/dp/0525675744/",
+            "ban": "https://www.barnesandnoble.com/w/frankie-j-sydney-jones/1002440304?ean=9780525675747",
+            "apl": "",
             "reviews": [
                 {
-                    "review": "",
-                    "attr": "",
+                    "review": "The unique, expertly worked setting and complex interplay of feelings make for an intriguing story.",
+                    "attr": "Kirkus Reviews",
+                    "href": "https://www.kirkusreviews.com/book-reviews/j-sydney-jones/frankie/"
+                },
+                {
+                    "review": "Fast-paced . . . realistic piece of historical fiction . . . an excellent springboard for discussion.",
+                    "attr": "School Library Journal",
                     "href": ""
                 }
             ]
@@ -94,11 +109,11 @@
             "id": "the-hero-game",
             "type": "standalone",
             "title": "The Hero Game",
-            "summary": "Summary",
+            "summary": "Jack Kavanagh was an Irish hero, jailed for fighting against fascism in Spain, when the Nazis offered him the choice of working for them or rotting in prison. His reluctant mission is to foment an uprising in Ireland that distracts the English and lays them open to Nazi invasion. But all too quickly and cruelly he learns he is but a dupe in a deadly doublecross--a pawn in a bloody assassination plot. Trapped in this sinister scheme engineered by the Third Reich's most feared secret agent, desperate about the fate of World War II and his own life, Kavanagh turns to beautiful Bridget O'Toole, the only one knowledgeable and daring enough to help him. As the two of them race to beat the agonizing odds, the clock of terror ticks away and the countdown begins on one of the most savage and cowardly acts of violence meant to change the course of history...",
             "img": "herogame.jpg",
-            "amzn": "https://amazon.com",
-            "ban": "https://amazon.com",
-            "apl": "https://amazon.com",
+            "amzn": "https://www.amazon.com/Hero-Game-Sydney-Jones-1992-12-01/dp/B01FGILHIY/",
+            "ban": "https://www.barnesandnoble.com/w/the-hero-game-j-sydney-jones/1000010176",
+            "apl": "",
             "reviews": [
                 {
                     "review": "",

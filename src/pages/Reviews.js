@@ -6,15 +6,6 @@ export default class Reviews extends Component {
     render() {
         const Data = reviews;
         
-        // function ReadMoreButton() {
-        //     if (reviews.reviews.more === "") {
-        //         return (
-        //             <a className="btn" href={reviews.reviews.more} target="_blank" rel="noopener noreferrer">Read more <i className="ion-ios-arrow-forward" /></a>
-        //         );
-        //     } else {
-        //         return null;
-        //     }
-        // }
         
         return (
             <div className="container">

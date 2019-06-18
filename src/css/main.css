@@ -140,13 +140,10 @@ a:hover{
 
 
 
-.book-cover {
-    /* float: none;
-    max-width: 100%; */
-    max-width: 100%;
-    
-    
+.book-cover{
+    width: 100%!important;
 }
+
 #book-view-top {
     /* margin-top: -5rem!important; */
     
