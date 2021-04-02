@@ -77,7 +77,7 @@ export default class BookView extends Component {
                         src={require(`../assets/images/${currentBook.img}`)}
                         alt={currentBook.title}
                         className="book-cover"
-                        style={{width: "100%"}}
+                        style={{ width: "100%" }}
                     />
                     <p className="p-sm" />
                 </div>
@@ -109,12 +109,10 @@ export default class BookView extends Component {
                         if (review.review !== "") {
                             return (
                                 <div key={Math.random()}>
-                                    <p className="quote-sm">{`"${
-                                        review.review
-                                    }"`}</p>
-                                    <p className="attr-sm">{`— ${
-                                        review.attr
-                                    }`}</p>
+                                    <p className="quote-sm">{`"${review.review
+                                        }"`}</p>
+                                    <p className="attr-sm">{`— ${review.attr
+                                        }`}</p>
                                     {review.href === "" ? null : (
                                         <a
                                             className="btn"
@@ -130,7 +128,7 @@ export default class BookView extends Component {
                                     <hr />
                                 </div>
                             );
-                        }else{
+                        } else {
                             return null;
                         }
                     })}
